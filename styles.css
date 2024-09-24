@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #9cd6f4;
+}
+
+#logo {
+    max-width: 200px;
+    margin: 25px 0px 30px 10px;
+    padding-top: 15px;
+}
+
+main {
+    margin: 20px 10px 10px 10px;
+}
+
+h1 {
+    font-size: 38px;
+    margin: 0;
+    padding-top: 15px;
+}
+
+#credits {
+    font-size: large;
+    margin: 0;
+    color: grey;
+}
+
+#author {
+    color: dodgerblue;
+}
+
+#date {
+    font-size: 12px;
+    margin: 0;
+    color: grey;
+}
+
+#images {
+    margin-top: 20px;
+}
+
+#description {
+    margin-top: 0;
+    font-size: 12px;
+}
+
+#highlighted {
+    background-color: yellow;
+}
+
+#list {
+    margin: 2em 0px 2em -25px;
+}
+
+#table-content {
+    text-align: left;
+    padding-bottom: 25px;
+}
+
+thead {
+    color: white;
+    background-color:#7fa6fb
+}
+
+#main-content {
+    width: 50%;
+}
+
+.opaque {
+    background-color:#dfe5f2
+}
+
+footer {
+    text-align: center;
+    background-color:#313a6b;
+    padding: 5px 0;
+}
+
+#copyright {
+    color: white;
+}
